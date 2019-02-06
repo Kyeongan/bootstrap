@@ -33,10 +33,11 @@ Thumbs.db
 .komodotools
 *.komodoproject
 
-# grunt-html-validation
-validation-report.json
-validation-status.json
+# Jekyll metadata
+docs/.jekyll-metadata
 
 # Folders to ignore
+/.bundle/
 bower_components
 node_modules
+/vendor/
